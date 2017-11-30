@@ -1,3 +1,4 @@
+#!/bin/sh
 #For new raspberry pi
 #install os first
 #Installation of the following
