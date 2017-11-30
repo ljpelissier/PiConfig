@@ -19,3 +19,5 @@ Purple='\033[0;35m'       # Purple
 Cyan='\033[0;36m'         # Cyan
 
 echo -e "$Red Hi there! $Green This is a great success! $Color_Off"
+
+sudo apt-get update -y && sudo apt-get upgrade -y
